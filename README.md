@@ -1,2 +1,1 @@
-# naifgold-app
-https://aurifyae.github.io/naifgold-app/
+https://aurifyae.github.io/NEHAN-Gold-App/
